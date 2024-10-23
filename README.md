@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Structures and Algorithms in C++
 - 💞️ I’m looking to collaborate with anything that is cool
-- 📫 How to reach me on Facebook: Daniel Mark Sarabusing
+- 📫 How to reach me on social media: Daniel Mark Sarabusing
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to cook and run
 
